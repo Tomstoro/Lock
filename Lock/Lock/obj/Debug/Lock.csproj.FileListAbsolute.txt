@@ -1,0 +1,10 @@
+C:\Users\M_INF_4H\Desktop\tps\Lock\Lock\bin\Debug\Lock.exe.config
+C:\Users\M_INF_4H\Desktop\tps\Lock\Lock\bin\Debug\Lock.exe
+C:\Users\M_INF_4H\Desktop\tps\Lock\Lock\bin\Debug\Lock.pdb
+C:\Users\M_INF_4H\Desktop\tps\Lock\Lock\obj\Debug\Lock.csproj.AssemblyReference.cache
+C:\Users\M_INF_4H\Desktop\tps\Lock\Lock\obj\Debug\Lock.Form1.resources
+C:\Users\M_INF_4H\Desktop\tps\Lock\Lock\obj\Debug\Lock.Properties.Resources.resources
+C:\Users\M_INF_4H\Desktop\tps\Lock\Lock\obj\Debug\Lock.csproj.GenerateResource.cache
+C:\Users\M_INF_4H\Desktop\tps\Lock\Lock\obj\Debug\Lock.csproj.CoreCompileInputs.cache
+C:\Users\M_INF_4H\Desktop\tps\Lock\Lock\obj\Debug\Lock.exe
+C:\Users\M_INF_4H\Desktop\tps\Lock\Lock\obj\Debug\Lock.pdb
